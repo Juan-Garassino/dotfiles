@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = juan.garassino@hotmail.com
+	name = juan garassino
